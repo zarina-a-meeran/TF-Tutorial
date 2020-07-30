@@ -1,6 +1,6 @@
 provider "azurerm" {
   version = "=1.44.0"
-  subscription_id = "8b150e3c-1d0c-453b-86a8-12110c26d98a" 
+  subscription_id = "" 
 }
 
 # Create a new resource group
